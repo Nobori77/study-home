@@ -13,4 +13,4 @@ function add(x,y){
   return x + y;
 }
 
-console.log(1 + add(2, 3));
+console.log(1 + add(2,  3));
