@@ -61,4 +61,4 @@ for (let i = 0; i < 10; i++) {
 // 1. 조건문에는 if 문과 switch 문이 있다
 // 2. 반복문에는 for, while, do ~ while 문이 있다
 // 3. break 는 반복문이나 switch 문을 벗어날 때 사용된다
-// 4. continue 는 다음번 반복을 수행하기 위해 사용된다
+// 4. continue 는 다음번 반복을 수행하기 위해 사용된다.
